@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 차온 아이콘: 초승달(쉼) + 따뜻한 점(온기) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#F4E9D8"
+        android:pathData="M60,34 A20,20 0 1,0 74,66 A16,16 0 1,1 60,34 Z" />
+    <path android:fillColor="#F2A65A"
+        android:pathData="M44,52 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+</vector>
